@@ -1,0 +1,3 @@
+#------------------[Reboot]
+
+Restart-Computer
