@@ -7,4 +7,4 @@ long time since been in here added BSOD for windows 10/11
 
 and also powershell keylogger 
 
-For cybersecurity educational testing purposes only i am not responsible for miss use of these tools  ! !
+For cybersecurity educational testing purposes only i am not responsible for miss use of these tools please use responsibly ! !
